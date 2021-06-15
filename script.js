@@ -1,2 +1,2 @@
-var console = "Nintendo 64"
+var console = "Nintendo64"
 var année = 1996
